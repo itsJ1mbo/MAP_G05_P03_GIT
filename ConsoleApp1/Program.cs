@@ -21,6 +21,8 @@
             Console.WriteLine("Booooof menudo conflicto va a salir (espero parte 2)");
 
             Console.WriteLine("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
+
+            Console.WriteLine("Estoy perdiendo la cabeza");
         }
     }
 }
