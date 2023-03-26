@@ -6,9 +6,13 @@
         {
             Console.WriteLine("Hello, World!");
 
+            Console.WriteLine("Cosas");
+
             Console.WriteLine("Git borracho putero estafador");
 
             Console.WriteLine("Por favor que esto genere un conflicto");
+
+            Console.WriteLine("aaaaa");
         }
     }
 }
