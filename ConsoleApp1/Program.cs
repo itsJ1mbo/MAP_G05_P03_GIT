@@ -10,7 +10,7 @@
 
             Console.WriteLine("Git borracho putero estafador");
 
-            Console.WriteLine("Por favor que esto genere un conflicto");
+            Console.WriteLine("Puta");
 
             Console.WriteLine("aaaaa");
 
