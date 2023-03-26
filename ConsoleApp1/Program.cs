@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
 
-            Console.WriteLine("Conflcito");
+            Console.WriteLine("Git borracho putero estafador");
         }
     }
 }
