@@ -25,6 +25,8 @@
             Console.WriteLine("Estoy perdiendo la cabeza");
 
             Console.WriteLine("Continua el sufrimiento");
+
+            Console.WriteLine("Creemos que funciona");
         }
     }
 }
