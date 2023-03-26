@@ -35,6 +35,8 @@
             Console.WriteLine("Por favor funciona :(");
 
             Console.WriteLine("Volvemos a lo anterior por idiotas");
+
+            Console.WriteLine("No puedo mas");
         }
     }
 }
