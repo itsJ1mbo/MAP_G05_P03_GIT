@@ -22,7 +22,7 @@
 
             Console.WriteLine("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
 
-            Console.WriteLine("Estoy perdiendo la cabeza");
+            Console.WriteLine("Yo mas");
 
             Console.WriteLine("Continua el sufrimiento");
 
