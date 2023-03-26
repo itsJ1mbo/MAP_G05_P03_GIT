@@ -8,7 +8,7 @@
 
             Console.WriteLine("Cosas");
 
-            Console.WriteLine("Git borracho putero estafador");
+            Console.WriteLine("Fino");
         }
     }
 }
